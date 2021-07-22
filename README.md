@@ -70,4 +70,8 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 
 
+(7)启动 Clash for Windows  
 
+返回到「General」部分，将「System Proxy」的开关更改为 [绿色](#1)状态即可开始使用。此外，建议将「Start with Windows」也更改为[绿色](#1)来让 Clash for Windows 在开机时自动启动。
+
+![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/8.png) 
