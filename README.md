@@ -43,3 +43,31 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 ![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/2.png)  
 ![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/3.png)  
 ![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/4.png)
+
+
+(3)先在机场官网复制 Clash(R)订阅链接。如果没有Clash(R)订阅 [请看这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)  
+
+
+(4)打开 Clash for Windows 应用程序，在左侧的标签页中选择「Profiles」， 在顶部输入您的 **Clash 订阅链接** ，然后点击「Download」按钮。  
+
+![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/5.png)
+
+(5)Clash for Windows 会自动拉取配置文件进行更新，如果一切顺利，你应当可以看到绿色提示信息「Success!」，并且可以看到一个新增的配置文件：
+
+![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/6.png)  
+
+
+(6)点击新增的配置文件来切换到该配置，然后点击「Proxies」标签页来切换接入点，将顶部的出站模式选择为「Rule」。 
+
+此模式下你的网络访问请求将通过 Clash for Winows 进行**分流处理**。
+
+![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/7.png)  
+
+
+注意：在「Proxy」策略组中选择所想要使用的接入点。Proxy 策略组是用于访问国际网络的默认策略，在不进行其他修改的情况下，所有国际网络的访问都通过 Proxy 策略组中选择的接入点进行。
+
+图中所示的其它策略组为本人出于自身实际需求自行配置的，请以自己的实际配置为准。  
+
+
+
+
