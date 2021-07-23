@@ -94,6 +94,7 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 (1)Clash for Windows 界面简介  
 
+![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/9.png) 
 
 **General（常规）**  
 
