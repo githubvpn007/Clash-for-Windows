@@ -139,7 +139,10 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 
 
-
+<br/>
+<br/>
+## [更多教程请看这里](https://github.com/githubvpn007/v2rayNvpn#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+## [更多工具下载看这里](https://github.com/githubvpn007/ProxyTool)
 
 
 
