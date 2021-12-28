@@ -39,10 +39,10 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 - 如果下载的是便携版的Clash for Windows，直接找到**resources**文件夹进行替换**app.asar**操作即可。  
 - 如下图所示  
 
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/1.png)  
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/2.png)  
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/3.png)  
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/4.png)
+![](https://i.postimg.cc/7LtLhLLP/1.png)  
+![](https://i.postimg.cc/B68nKG8T/2.png)  
+![](https://i.postimg.cc/G2ZhPSYZ/3.png)  
+![](https://i.postimg.cc/NjgGxX9f/4.png)
 
 
 (3)先在机场官网复制 Clash(R)订阅链接。如果没有Clash(R)订阅 [请看这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)  
@@ -50,18 +50,18 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 (4)打开 Clash for Windows 应用程序，在左侧的标签页中选择「Profiles」， 在顶部输入您的 **Clash 订阅链接** ，然后点击「Download」按钮。  
 
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/5.png)
+![](https://i.postimg.cc/RhKCgQLq/5.png)
 
 (5)Clash for Windows 会自动拉取配置文件进行更新，如果一切顺利，你应当可以看到绿色提示信息「Success!」，并且可以看到一个新增的配置文件：
 
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/6.png)  
+![](https://i.postimg.cc/FsbscpKB/6.png)  
 
 
 (6)点击新增的配置文件来切换到该配置，然后点击「Proxies」标签页来切换接入点，将顶部的出站模式选择为「Rule」。 
 
 此模式下你的网络访问请求将通过 Clash for Winows 进行**分流处理**。
 
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/7.png)  
+![](https://i.postimg.cc/ncfhCgnm/7.png)  
 
 
 注意：在「Proxy」策略组中选择所想要使用的接入点。Proxy 策略组是用于访问国际网络的默认策略，在不进行其他修改的情况下，所有国际网络的访问都通过 Proxy 策略组中选择的接入点进行。
@@ -74,7 +74,7 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 返回到「General」部分，将「System Proxy」的开关更改为 [绿色](#1)状态即可开始使用。此外，建议将「Start with Windows」也更改为[绿色](#1)来让 Clash for Windows 在开机时自动启动。
 
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/8.png)  
+![](https://i.postimg.cc/XNCvN463/8.png)  
 
 
 (8)如果无法直接从软件里更新自己的订阅  
@@ -94,7 +94,7 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 (1)Clash for Windows 界面简介  
 
-![](https://github.com/githubvpn007/Clash-for-Windows/blob/main/images/9.png) 
+![](https://i.postimg.cc/rwQVZpxG/9.png) 
 
 **General（常规）**  
 
