@@ -25,7 +25,7 @@ Clash for Windows 是目前在 Windows 上唯一可用的图形化 Clash 分支�
 
 (1)下载安装  
 
-[下载地址](https://github.com/Fndroid/clash_for_windows_pkg/releases)   选择 Clash.for.Windows.Setup.x.xx.x.exe  
+[下载地址](https://archive.org/download/clash_for_windows_pkg)   选择 Clash.for.Windows.Setup.x.xx.x.exe  
 
 注意：由于 Clash for Windows 没有任何有效的数字签名，因此 SmartScreen 可能会弹出提示，请点击 **「更多信息」**，然后选择 **「仍要运行」** 。 
 
